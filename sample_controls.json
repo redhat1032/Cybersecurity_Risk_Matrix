@@ -1,0 +1,20 @@
+[
+  {
+    "id": "AC-1",
+    "name": "Access Control Policy",
+    "category": "Access Control",
+    "risk_level": "High"
+  },
+  {
+    "id": "AU-6",
+    "name": "Audit Review, Analysis, and Reporting",
+    "category": "Audit and Accountability",
+    "risk_level": "Medium"
+  },
+  {
+    "id": "SI-7",
+    "name": "Software, Firmware, and Information Integrity",
+    "category": "System and Information Integrity",
+    "risk_level": "High"
+  }
+]
